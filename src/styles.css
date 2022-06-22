@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.caraousel-container {
+  height: 50px;
+  position: relative;
+}
+
+.move-left {
+  position: absolute;
+  display: block;
+  left: 25%;
+  top: 100%;
+}
+
+.move-right {
+  position: absolute;
+  display: block;
+  right: 25%;
+  top: 100%;
+}
